@@ -1,0 +1,14 @@
+{
+  "name": "nodejsg41",
+  "version": "1.0.0",
+  "description": "prueba nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cristofher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
